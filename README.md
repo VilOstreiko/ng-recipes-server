@@ -3,7 +3,7 @@
 
 Run
 ```
-git clone https://github.com/EugeniaM/recipes-server.git
+git clone https://github.com/qvintrix/recipes-server.git
 ```
 
 Navigate to the folder which contains the project and run
