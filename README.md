@@ -31,7 +31,7 @@ to point to the JSON file you have downloaded. It should be
 const serviceAccount = require('./vendors/credentials/*name-of-your-file*.json');
 ```
 9.  In  *firebase-database.js* file change the **databaseURL** property. It should contain the url of your database which you can find on Service Accounts tab in your Firebase project in 'Code fragment to configure Admin SDK' ('Фрагмент кода для настройки Admin SDK')
-10. Go to [https://github.com/EugeniaM/recipes-fb-database-initial](https://github.com/EugeniaM/recipes-fb-database-initial) and follow the instructions to initialize database (this repository should be cloned into separate folder, not connected to the recipes-server project)
+10. Go to [https://github.com/qvintrix/recipes-fb-database-initial.git](https://github.com/qvintrix/recipes-fb-database-initial) and follow the instructions to initialize database (this repository should be cloned into separate folder, not connected to the recipes-server project)
 
 To run the server navigate to the folder which contains this project and run
 ```
